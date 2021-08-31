@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"FriendlyName": "DocMod",
+	"Description": "Mod From Documentation",
+	"Category": "Modding",
+	"CreatedBy": "asterixom",
+	"CreatedByURL": "",
+	"DocsURL": "https://docs.ficsit.app/satisfactory-modding/latest/Development/BeginnersGuide/SimpleMod/index.html",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}
